@@ -4,10 +4,10 @@ Este é um aplicativo mobile desenvolvido com **React Native** e **Expo**, que o
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Tela Inicial](https://via.placeholder.com/250x500/000/F3E344?text=Star+Wars+App)
-*Adicione aqui o seu screenshot real!*
+![Star Wars Logo](assets/logo.jpg)
+*Interface oficial do App Star Wars - Guia de Trilogias*
 
 ---
 
